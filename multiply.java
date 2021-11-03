@@ -5,6 +5,8 @@ public class multiply {
         HashMap<Integer,String> map=new HashMap<>();
         System.out.println("multiply");
         map.put(1,"Suraj");
+
+        
         System.out.println(map);
     }
 }
